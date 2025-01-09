@@ -61,8 +61,8 @@ nav{
     transition: all 0.3s ease;
 }
 
-.links a:hover::after{
-    width: 70%;
+.links a:hover{
+    height: 20px;
 }
 
 .btn{
